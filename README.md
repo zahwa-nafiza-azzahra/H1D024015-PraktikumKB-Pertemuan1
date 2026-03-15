@@ -6,7 +6,6 @@
 ---
 
 ## 📋 Deskripsi Tugas
-Sesuai instruksi modul halaman 16:  
 Buatlah program sederhana menggunakan bahasa Python yang mengimplementasikan:
 - Struktur kontrol
 - Struktur data
